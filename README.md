@@ -1,30 +1,44 @@
 # PORTFOLIO PAGE 
+
 solution for a challenge from **Devchallenges.io**
+
 [Demo](#) | [Solution](#) | [Challenge](#) 
 
 ---
 ## Table of Contents
+
 -[Overview] (#overview)
+
 -[Bulit With] (#built-with)
+
 -[Features](#features)
+
 -[How to use](#show-to-use)
+
 -[Acknowledgements](#acknowledgements)
-[Contact](#contact)
+
+-[Contact](#contact)
 
 ---
 ## Overview
 
-![screenshot]("https://github.com/nagavenim8951-hash/Portfolio/blob/main/Screenshot.png?raw=true")
+![screenshot]("blob:https://github.com/6b97ba0d-6d58-4bc1-984f-f90f140e62e0")
 
-##Introduce your project here.For example:
+## Introduce your project here.For example:
+
 -Where can I see your demo?
+
 -What was your experience building this?
+
 -what have you learned or improved?
+
 -Any thoughts or advise you want to share?
 
 ---
+
 ## Built with
 -HTML
+
 -CSS
 
 ---
@@ -33,7 +47,9 @@ This application/site was created as a submission to a **Devchallenges** challen
 
 ---
 ## How to use
+
 To clone and run this application, you'll need **Git** and **Node.js**installed from  your command line:
+
 ```bash
 # Clone this repository
 git clone https://github.com/your-user-name/your-project-name
