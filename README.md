@@ -1,4 +1,4 @@
-#PORTFOLIO PAGE
+# PORTFOLIO PAGE 
 solution for a challenge from **Devchallenges.io**
 [Demo](#) | [Solution](#) | [Challenge](#) 
 
@@ -12,10 +12,11 @@ solution for a challenge from **Devchallenges.io**
 [Contact](#contact)
 
 ---
-##Overview
+## Overview
 
-![screenshot]("Screenshot.png")
-Introduce your project here.For example:
+![screenshot]("https://github.com/nagavenim8951-hash/Portfolio/blob/main/Screenshot.png?raw=true")
+
+##Introduce your project here.For example:
 -Where can I see your demo?
 -What was your experience building this?
 -what have you learned or improved?
@@ -27,14 +28,14 @@ Introduce your project here.For example:
 -CSS
 
 ---
-##Features
+## Features
 This application/site was created as a submission to a **Devchallenges** challenge.The challenge was to build an application that completes the given user stories.
 
 ---
 ## How to use
-To clone and run this application, you'll need ** Git** and **Node.js**installed from  your command line:
+To clone and run this application, you'll need **Git** and **Node.js**installed from  your command line:
 ```bash
-#clone this repository
+# Clone this repository
 git clone https://github.com/your-user-name/your-project-name
 
 #Enter the project directory
@@ -42,13 +43,14 @@ cd your-project-name
 
 #Run the app
 npm start
+```
 
 ## Acknowledgements
 -steps to replicate a design with only HTML and CSS
 -Node.js
 -Marked - a markdown parser
 
-##Contact
+## Contact
 -**Website:** your-website.com
 -**GitHub:**  @your-username
 -**Twitter:** @youe-twitter
