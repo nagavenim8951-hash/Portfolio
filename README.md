@@ -20,7 +20,7 @@ This portfolio includes multiple mini-projects such as a 404 Page,Team Page,Chec
 
 -Clean layout with illustration
 
-- Fully responsive
+Fully responsive
 
 ### Team Page
 
