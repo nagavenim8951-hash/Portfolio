@@ -1,49 +1,57 @@
 # PORTFOLIO PAGE 
 
-solution for a challenge from **Devchallenges.io**
+A collection of frontend practice projects built using HTML and CSS.
 
-[Demo](#) | [Solution](#) | [Challenge](#) 
-
----
-## Table of Contents
-
--[Overview](#overview)
-
--[Bulit With](#built-with)
-
--[Features](#features)
-
--[How to use](#show-to-use)
-
--[Acknowledgements](#acknowledgements)
-
--[Contact](#contact)
+This portfolio includes multiple mini-projects such as a 404 Page,Team Page,CheckOut page and other layouts created for learning and improving web Development skills.
 
 ---
 
-## Introduce your project here.For example:
+## DEMO
 
--Where can I see your demo?
-
--What was your experience building this?
-
--what have you learned or improved?
-
--Any thoughts or advise you want to share?
+[Demo](https://htmlpreview.github.io/?https://raw.githubusercontent.com/nagavenim8951-hash/Portfolio/refs/heads/main/portfolioPage/index.html) 
 
 ---
 
-## Built with
+## Projects Included
+
+### 404-Page Not Found
+
+-Custom error page
+
+-Clean layout with illustration
+
+- Fully responsive
+
+### Team Page
+
+-Responsive team member grid
+
+-Clean card layout
+
+-Flexbox-based structure
+
+### CheckOut page
+
+-Structured content page
+
+-Simple section-based design
+
+----
+
+## Tech Stack
+
 -HTML
 
 -CSS
 
 ---
+
 ## Features
+
 This application/site was created as a submission to a **Devchallenges** challenge.The challenge was to build an application that completes the given user stories.
 
 ---
-## How to use
+## How to run
 
 To clone and run this application, you'll need **Git** and **Node.js**installed from  your command line:
 
@@ -58,13 +66,13 @@ cd your-project-name
 npm start
 ```
 
-## Acknowledgements
+## purpose of this PortFolio
 
--steps to replicate a design with only HTML and CSS
+-Improve flexbox and layout skills
 
--Node.js
+-Learn clean file structure
 
--Marked - a markdown parser
+-Build a portfolio for future opportunities
 
 ## Contact
 
